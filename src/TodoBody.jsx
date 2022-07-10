@@ -29,11 +29,11 @@ function Todo() {
 
   return (
     <>
-      <div className="p-4 space-y-5">
+      <div className="p-4 space-y-1">
         <h2 className="text-xl font-semibold">Things To Do</h2>
         <div className="space-y-2">
           {todoList.length < 1 && (
-            <h3 className="text-gray-500 pb-6 space-y-2">No todo here !!</h3>
+            <h3 className="text-gray-900 text-md pb-6 font-light">No todo here !!</h3>
           )}
           {todoList.length > 0 &&
             todoList.map((t) => (
