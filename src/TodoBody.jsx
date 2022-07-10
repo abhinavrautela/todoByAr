@@ -30,10 +30,10 @@ function Todo() {
   return (
     <>
       <div className="p-4 space-y-5">
-        <h2 className="text-xl font-medium">Things To Do</h2>
+        <h2 className="text-xl font-semibold">Things To Do</h2>
         <div className="space-y-2">
           {todoList.length < 1 && (
-            <h3 className="text-gray-500">No todo here !!</h3>
+            <h3 className="text-gray-500 pb-6 space-y-2">No todo here !!</h3>
           )}
           {todoList.length > 0 &&
             todoList.map((t) => (
@@ -49,7 +49,7 @@ function Todo() {
           {todoForm && (
             <TodoForm onCancleClick={HideTodoForm} onSave={addTodo} />
           )}
-          <h2 className="text-xl font-medium">Things Done</h2>
+          <h2 className="text-xl pt-5 font-semibold">Things Done</h2>
           {doneList.map((t) => (
             <TodoList onStatusChange={isnotDone} key={t} ticked={true}>
               {t}
