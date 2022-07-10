@@ -14,7 +14,9 @@ function TodoForm({ onCancleClick, onSave }) {
       return;
     }
     onSave(inputValue);
+    onCancleClick();
     updateInputValue("");
+
   }
   return (
     <Card>
@@ -22,7 +24,7 @@ function TodoForm({ onCancleClick, onSave }) {
         <h1 className="text-lg text-white font-semibold">Create a Todo</h1>
         <div>
           <Input
-            placeholder="Enter your ITEMS"
+            placeholder="Enter your ITEMS LIST"
             inputType="text"
             value={inputValue}
             onChange={inputChange}
