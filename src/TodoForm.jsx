@@ -19,10 +19,10 @@ function TodoForm({ onCancleClick, onSave }) {
   return (
     <Card>
       <div className="space-y-4 flex flex-col">
-        <h1>Create a Todo</h1>
+        <h1 className="text-lg">Create a Todo</h1>
         <div>
           <Input
-            placeholder="enter todo"
+            placeholder="Enter your ITEMS"
             inputType="text"
             value={inputValue}
             onChange={inputChange}
@@ -34,7 +34,7 @@ function TodoForm({ onCancleClick, onSave }) {
             Save
           </Button>
           <Button theme="primary" onClick={onCancleClick}>
-            Cancle
+            Cancel
           </Button>
         </div>
       </div>

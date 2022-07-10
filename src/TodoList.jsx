@@ -5,6 +5,9 @@ function TodoList({ children, ticked, onStatusChange }) {
   if ( ticked === true ){
      myClass = " line-through font-normal"
    }
+   if (ticked === false) {
+     myClass = " underline";
+   }
   return (
     <>
       <div className="space-x-3">

@@ -30,7 +30,6 @@ function Todo() {
   return (
     <>
       <div className="p-4 space-y-5">
-        <h1 className="text-3xl font-bold">Things to get done</h1>
         <h2 className="text-xl font-medium">Things To Do</h2>
         <div className="space-y-2">
           {todoList.length < 1 && (
