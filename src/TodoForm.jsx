@@ -10,7 +10,7 @@ function TodoForm({ onCancleClick, onSave }) {
     updateInputValue(e.target.value);
   }
   function save() {
-    if (inputValue === "") {
+    if (!inputValue) {
       return;
     }
     onSave(inputValue);
