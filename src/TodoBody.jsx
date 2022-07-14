@@ -4,7 +4,7 @@ import TodoList from "./TodoList";
 import TodoForm from "./TodoForm";
 function TodoBody() {
   const [todoForm, showTodoForm] = useState(false);
-  const [todoList, setTodoList] = useState([]);
+  const [todoList, setTodoList] = useState(["start your day with 'whatToDo'", " MadeWithLove@_abhinavRautela"]);
   const [doneList, setDoneList] = useState([]);
 
    console.log(todoList);
