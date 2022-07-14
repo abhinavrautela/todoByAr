@@ -11,6 +11,7 @@ function TodoForm({ onCancleClick, onSave }) {
   }
   function save() {
     if (!inputValue) {
+      alert("Please enter any text to Save")
       return;
     }
     onSave(inputValue);
