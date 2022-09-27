@@ -21,7 +21,7 @@ function TodoForm({ onCancleClick, onSave }) {
   }
   return (
     <Card>
-      <div className="space-y-4 flex flex-col">
+      <div className="space-y-4 flex flex-col ">
         <h1 className="text-lg text-white font-semibold">Create a Todo</h1>
         <div>
           <Input
