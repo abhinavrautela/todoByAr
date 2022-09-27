@@ -33,7 +33,7 @@ use VScode to write my programs.
 
 **2. Design**
 
-I take inspiration form X-ToDo (<a href="https://todo-app-xstate-react.netlify.app" target="_blank">https://XTodo.com</a>) app for my design and upgraded some features init.
+I take inspiration form X-ToDo (<a>"https://todo-app-xstate-react.netlify.app</a>) app for my design and upgraded some features init.
 
 
 **3. Implementation**
