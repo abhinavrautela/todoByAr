@@ -8,7 +8,7 @@
 
 - **App Name : whatToDo**
 
-- **App Link : <a href="https://whattod0.netlify.app" target="_blank">https://whatToDo.app</a>
+- **App Link : <a href="https://whattod0.netlify.app" target="_blank">https://whattod0.netlify.app</a>
 
 --------
 
