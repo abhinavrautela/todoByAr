@@ -8,7 +8,7 @@
 
 - **App Name : whatToDo**
 
-- **App Link : [https://whattod0.netlify.app](url)**
+- **App Link : <a href="https://whattod0.netlify.app" target="_blank">https://whattod0.netlify.app</a>
 
 --------
 
@@ -23,7 +23,8 @@ Todo-app is an *application* that allows to manage a list of tasks to do. It per
 
  _I'm using waterfall method to divided the **Planning Of Work** for this project into discrete stages_.
 
-![](https://www.edrawsoft.com/templates/images/waterfall-methodology.png)
+<img src="https://www.edrawsoft.com/templates/images/waterfall-methodology.png" width="380px"/>
+
 
 **1. Requirements**
 
@@ -32,7 +33,7 @@ use VScode to write my programs.
 
 **2. Design**
 
-I take inspiration form X-ToDo ([https://todo-app-xstate-react.netlify.app/](url)) app for my design and upgraded some features init.
+I take inspiration form X-ToDo (<a href="https://todo-app-xstate-react.netlify.app" target="_blank">https://todo-app-xstate-react.netlify.app</a>) app for my design and upgraded some features init.
 
 
 **3. Implementation**
@@ -54,29 +55,31 @@ As it is a SPA (Single Page Application),  maintenance of this app is done with 
 
 - *For Code* (VScode)
 
-![](https://wallpaperaccess.com/full/5809796.png)
+<img src="https://wallpaperaccess.com/full/5809796.png" width="380px"/>
 
-
+---
 
 - *For UI* (React, TailwindCSS) 
 
+<img src="https://miro.medium.com/max/1400/1*6kX5D75l04BSZ6llEd9qWQ.png" width="380px"/>
 
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--K8pf5HVu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/a90rgal0ypgtl1swvmxc.png)
-
+---
 
 - *For Deployment* (Netlify) 
 
-![](https://www.netlify.com/img/global/meta-image.jpg)
+<img src="https://www.netlify.com/img/global/meta-image.jpg" width="380px"/>
 
 --------
 
 ◻ ***References***
-
 - StackOverflow
-([https://stackoverflow.com/](url))
+(<a href="https://stackoverflow.com/" target="_blank">https://stackoverflow.com/</a>)
 - W3Schools
-([https://www.w3schools.com/](url))
+(<a href="https://www.w3schools.com/" target="_blank">https://www.w3schools.com/</a>)
 - TailwindCSS docs.
-([https://tailwindcss.com/](url))
+(<a href="https://tailwindcss.com/" target="_blank">https://tailwindcss.com/</a>)
 - React docs.
-([https://reactjs.org/](url))
+(<a href="https://reactjs.org/" target="_blank">https://reactjs.org/</a>)
+
+
+
