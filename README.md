@@ -8,7 +8,7 @@
 
 - **App Name : whatToDo**
 
-- **App Link : <a href="https://whattod0.netlify.app" target="_blank">https://whattod0.netlify.app</a>
+- **App Link : <a href="https://whattod0.netlify.app" target="_blank">https://whatToDo.app</a>
 
 --------
 
@@ -33,7 +33,7 @@ use VScode to write my programs.
 
 **2. Design**
 
-I take inspiration form X-ToDo (<a href="https://todo-app-xstate-react.netlify.app" target="_blank">https://todo-app-xstate-react.netlify.app</a>) app for my design and upgraded some features init.
+I take inspiration form X-ToDo (<a href="https://todo-app-xstate-react.netlify.app" target="_blank">https://XTodo.com</a>) app for my design and upgraded some features init.
 
 
 **3. Implementation**
