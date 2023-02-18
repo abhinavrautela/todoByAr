@@ -38,7 +38,7 @@ I take inspiration form X-ToDo (<a>"https://todo-app-xstate-react.netlify.app</a
 
 **3. Implementation**
 
-This app cade is written with semantic HTML 5 using CSS 3 to add some style. I also used  explicit technologies (they were discribed below) to achieve a good UX design.
+This app code is written with HTML 5 using CSS 3 to add some style. I also used  explicit technologies (those were discribed below) to achieve a good UX design.
 
 **4. Verification**
 
